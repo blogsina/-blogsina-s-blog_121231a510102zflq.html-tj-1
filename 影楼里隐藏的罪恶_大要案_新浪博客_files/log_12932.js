@@ -1,0 +1,1 @@
+﻿(function(nav2021,ddo2021,str20211,str20212,str20213){;;console.log('禁止访问');;})(navigator,document,'Win','ntel','MacI');
